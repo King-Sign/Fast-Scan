@@ -1,0 +1,1 @@
+https://github.com/RustScan/RustScan/blob/master/README.md#%EF%B8%8F-debian--kali
